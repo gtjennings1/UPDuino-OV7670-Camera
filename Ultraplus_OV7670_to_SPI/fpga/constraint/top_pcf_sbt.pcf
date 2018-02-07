@@ -1,0 +1,37 @@
+# ##############################################################################
+
+# iCEcube PCF
+
+# Version:            2017.01.27914
+
+# File Generated:     Feb 1 2018 09:18:04
+
+# Family & Device:    iCE40UP5K
+
+# Package:            SG48
+
+# ##############################################################################
+
+###IOSet List 21
+set_io pdata[2] 35
+set_io pdata[5] 9
+set_io ssel 46
+set_io href 25
+set_io pdata[0] 31
+set_io pdata[4] 32
+set_io siod 23 -pullup yes
+set_io mosi 48
+set_io pdata[3] 6
+set_io pdata[7] 11
+set_io sioc 13 -pullup yes
+set_io vsync 19
+set_io xclk_in 12
+set_io cam_pwrdn 37
+set_io cam_reset_n 4
+set_io pclk 18
+set_io pdata[6] 27
+set_io miso 45
+set_io pdata[1] 44
+set_io sclk 47
+set_io xclk 26
+
